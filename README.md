@@ -1,4 +1,4 @@
-# mongodb-practice
+# nosql_mongodb_practice
 
 Bu repository, **MongoDB** üzerinde yaptığım pratik çalışmaları ve öğrenme amaçlı yazdığım örnek kodları içermektedir.  
 Amaç; MongoDB temellerini öğrenmek, NoSQL mantığını kavramak ve sorgu yazma becerilerini geliştirmektir.
