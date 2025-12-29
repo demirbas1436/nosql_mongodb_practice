@@ -13,4 +13,5 @@ db.denem4.find( {}, { "host.host_listings_count": 1 } ).limit(1).pretty()
 
 
 // OUTPUT:
+
 [ { _id: '10006546', host_listings_count: { '$numberInt': '3' } } ]
